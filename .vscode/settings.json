@@ -1,0 +1,9 @@
+{
+    "files.exclude": { 
+        "**/.next": true,
+        "**/.vscode": true,
+        "**/node_modules": true,
+    },
+    "workbench.tree.indent": 20,
+    "eslint.format.enable": true,
+}

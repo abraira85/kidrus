@@ -1,22 +1,40 @@
 {
-  "name": "kidsrus",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "@types/node": "20.2.3",
-    "@types/react": "18.2.7",
-    "@types/react-dom": "18.2.4",
-    "eslint": "8.41.0",
-    "eslint-config-next": "13.4.3",
-    "next": "13.4.3",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "typescript": "5.0.4"
-  }
+    "name": "kidsrus",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@emotion/cache": "11.10.5",
+        "@emotion/react": "11.10.6",
+        "@emotion/server": "11.10.0",
+        "@emotion/styled": "11.10.6",
+        "@fortawesome/fontawesome-svg-core": "6.4.0",
+        "@fortawesome/free-brands-svg-icons": "6.4.0",
+        "@fortawesome/free-solid-svg-icons": "6.4.0",
+        "@fortawesome/react-fontawesome": "0.2.0",
+        "@mui/icons-material": "5.11.11",
+        "@mui/material": "5.11.11",
+        "@mui/styles": "5.11.16",
+        "next": "13.4.3",
+        "react": "18.2.0",
+        "react-dom": "18.2.0",
+        "react-image-magnify": "2.7.4",
+        "react-slick": "^0.29.0",
+        "slick-carousel": "^1.8.1"
+    },
+    "devDependencies": {
+        "@types/node": "20.2.3",
+        "@types/react": "18.2.7",
+        "@types/react-dom": "18.2.4",
+        "@types/react-image-magnify": "^2.7.1",
+        "@types/react-slick": "^0.23.10",
+        "eslint": "8.41.0",
+        "eslint-config-next": "13.4.3",
+        "typescript": "5.0.4"
+    }
 }
