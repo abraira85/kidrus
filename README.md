@@ -11,25 +11,25 @@ Recommended Node.js version: 18.16.0
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/abraira85/kidsrus.git
+git clone https://github.com/abraira85/kidsrus.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-    cd project-directory
+cd project-directory
 ```
     
 3. Install dependencies using NPM:
 
 ```bash
-    npm install
+npm install
 ```
 
 Or install dependencies using Yarn:
 
 ```bash
-    yarn install
+yarn install
 ```
 
 ## Usage
